@@ -1,0 +1,20 @@
+D:\yazılım sınama Ödevleri\Ödev1\bin\Debug\Ödev1.exe.config
+D:\yazılım sınama Ödevleri\Ödev1\bin\Debug\Ödev1.exe
+D:\yazılım sınama Ödevleri\Ödev1\bin\Debug\Ödev1.pdb
+D:\yazılım sınama Ödevleri\Ödev1\obj\Debug\Ödev1.csproj.AssemblyReference.cache
+D:\yazılım sınama Ödevleri\Ödev1\obj\Debug\Ödev1.Properties.Resources.resources
+D:\yazılım sınama Ödevleri\Ödev1\obj\Debug\Ödev1.csproj.GenerateResource.cache
+D:\yazılım sınama Ödevleri\Ödev1\obj\Debug\Ödev1.csproj.CoreCompileInputs.cache
+D:\yazılım sınama Ödevleri\Ödev1\obj\Debug\Ödev1.exe
+D:\yazılım sınama Ödevleri\Ödev1\obj\Debug\Ödev1.pdb
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\bin\Debug\Ödev1.exe.config
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\bin\Debug\Ödev1.exe
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\bin\Debug\Ödev1.pdb
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\obj\Debug\Ödev1.csprojAssemblyReference.cache
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\obj\Debug\Ödev1.Properties.Resources.resources
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\obj\Debug\Ödev1.csproj.GenerateResource.cache
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\obj\Debug\Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\obj\Debug\Ödev1.exe
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\obj\Debug\Ödev1.pdb
+D:\yazılım sınama Ödevleri\Ödev1\obj\Debug\Ödev1.frmPiyon.resources
+C:\Users\marsl\OneDrive\Masaüstü\Ödev1\obj\Debug\Ödev1.frmPiyon.resources
